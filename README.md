@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hola! This is Alberto! 🫡😺
 
-<!--
-**costeadev/costeadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 I'm a CS student in Spain looking forward to learn and do cool projects. 
+- 🏫 I'm currently learning Java.
+- 🌱 I like to explore different topics, right now I'm interesed in low-level programming, reverse engineering & security.
+- 📡 You can reach me through e-mail or LinkedIn.
+- 🎉 Fun facts:
+  * I have 2 cats 🐈🐈‍⬛
+  * I can beat my dad at Chess ♟️
+  * I like to cook 🧑‍🍳🍝
+  * I love language-learning 📖🗣️
