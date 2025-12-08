@@ -9,3 +9,5 @@
   * I can beat my dad at Chess ♟️
   * I like to cook 🧑‍🍳🍝
   * I love language-learning 📖🗣️
+ 
+    [![costeadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=costeadev)](https://github.com/costeadev/github-readme-stats)
